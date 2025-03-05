@@ -75,7 +75,7 @@ DOMAIN-SUFFIX, tandfonline.com,DIRECT
 DOMAIN-SUFFIX, un.org,DIRECT
 DOMAIN-SUFFIX, uni-bielefeld.de,DIRECT
 # DOMAIN-SUFFIX, wanfangdata.com,DIRECT
-DOMAIN-SUFFIX, webofknowledge.com,DIRECT
+DOMAIN-SUFFIX, webofknowledge.com,Direct
 DOMAIN-SUFFIX, westlaw.com,DIRECT
 # DOMAIN-SUFFIX, westlawchina.com,DIRECT
 DOMAIN-SUFFIX, wiley.com,DIRECT
